@@ -1,0 +1,8 @@
+# Ingnore IDE
+.codio
+
+# Ignore archive
+*.tar.gz
+*.zip
+*.rar
+*.7z
